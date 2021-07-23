@@ -9,8 +9,8 @@
       "destination": "https://aws.amazon.com/"
     },
     {
-      "source": "/:path",
-      "destination": "https://smile.amazon.com/:path"
+      "source": "/:path*",
+      "destination": "https://smile.amazon.com/:path*"
     }
   ]
 }
