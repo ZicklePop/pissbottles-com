@@ -1,0 +1,16 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://smile.amazon.com/s?k=pee+bottle"
+    },
+    {
+      "source": "/aws",
+      "destination": "https://aws.amazon.com/"
+    },
+    {
+      "source": "/:path",
+      "destination": "https://smile.amazon.com/:path"
+    }
+  ]
+}
